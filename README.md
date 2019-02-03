@@ -1,2 +1,2 @@
 # learning-react
-Just to get to know about ReactJs! ;)
+I will soon be, a wonderful expert, in ReactJs! ;)
